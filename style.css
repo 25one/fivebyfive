@@ -1,0 +1,28 @@
+.container {
+width:15.4em;
+}
+
+.container_five {
+display:table;
+}
+
+.five_row {
+display:table-row;
+}
+
+.five_cell {
+display:table-cell;
+width:3em;
+height:3em;
+background-color:silver;
+border:0.1em solid whitesmoke;
+cursor:pointer;
+}
+
+.container_click {
+width:100%;
+background-color:whitesmoke;
+font-weight:bolder;
+text-align:center;
+font-size:2em;
+}
